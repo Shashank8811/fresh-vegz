@@ -1,0 +1,142 @@
+const vegetables = [
+  {
+    id: 1,
+    img: "../assests/veg1-spinach.jpg",
+    text: "Spinach",
+    price: "₹30 per Bunch",
+  },
+  {
+    id: 2,
+    img: "../assests/veg2-carrot.jpg",
+    text: "Carrots",
+    price: "₹50 per Kg",
+  },
+  {
+    id: 3,
+    img: "../assests/veg3-greenbeans.jpg",
+    text: "Green Beans",
+    price: "₹100 per Kg",
+  },
+  {
+    id: 4,
+    img: "../assests/veg4-potatoes.jpg",
+    text: "Potatoes",
+    price: "₹35 per Kg",
+  },
+  {
+    id: 5,
+    img: "../assests/veg-5 tomatoes.jpg",
+    text: "Tomatoes",
+    price: "₹27 per Kg",
+  },
+  {
+    id: 6,
+    img: "../assests/veg6-greenchilly.jpg",
+    text: "Green chilli",
+    price: "₹45 per Kg",
+  },
+  {
+    id: 7,
+    img: "../assests/veg7-capsicum.jpg",
+    text: "Capsicum",
+    price: "₹55 per Kg",
+  },
+  {
+    id: 8,
+    img: "../assests/veg8-onions.jpg",
+    text: "Onions",
+    price: "₹40 per Kg",
+  },
+  {
+    id: 9,
+    img: "../assests/veg9-ginger.jpg",
+    text: "Ginger",
+    price: "₹220 per Kg",
+  },
+  {
+    id: 10,
+    img: "../assests/veg10-garlic.jpg",
+    text: "Garlic",
+    price: "₹140 per Kg",
+  },
+  {
+    id: 11,
+    img: "../assests/veg11-coriander.jpg",
+    text: "Coriander",
+    price: "₹20 per Bunch",
+  },
+  {
+    id: 12,
+    img: "../assests/veg12-beetroot.jpg",
+    text: "Beetroot",
+    price: "₹45 per Kg",
+  },
+  {
+    id: 13,
+    img: "../assests/veg13-radish.jpg",
+    text: "Radish",
+    price: "₹40 per Kg",
+  },
+  {
+    id: 14,
+    img: "../assests/veg14-ladysfinger.jpg",
+    text: "Ladies Finger",
+    price: "₹47 per Kg",
+  },
+  {
+    id: 15,
+    img: "../assests/veg15-cabbage.jpg",
+    text: "Cabbage",
+    price: "₹25 per Kg",
+  },
+  {
+    id: 16,
+    img: "../assests/veg16-cauliflower.jpg",
+    text: "Cauliflower",
+    price: "₹45 per Kg",
+  },
+  {
+    id: 17,
+    img: "../assests/veg17-cucumbers.jpg",
+    text: "Cucumber",
+    price: "₹30 per Kg",
+  },
+  {
+    id: 18,
+    img: "../assests/veg18-eggplant.jpg",
+    text: "Brinjal",
+    price: "₹70 per Kg",
+  },
+  {
+    id: 19,
+    img: "../assests/veg19-curryleaves.jpg",
+    text: "Curry Leaves",
+    price: "₹15 per Kg",
+  },
+  {
+    id: 20,
+    img: "../assests/veg20-greenpeas.jpg",
+    text: "Green Peas",
+    price: "₹90 per Kg",
+  },
+  {
+    id: 21,
+    img: "../assests/veg21-pumpkins.jpg",
+    text: "Pumpkins",
+    price: "₹25 per Kg",
+  },
+  {
+    id: 22,
+    img: "../assests/veg22-corn.jpg",
+    text: "Corn",
+    price: "₹130 per Kg",
+  },
+  {
+    id: 23,
+    img: "../assests/veg23-mushrooms.jpg",
+    text: "Mushroom",
+    price: "₹100 per Kg",
+  },
+];
+
+export default vegetables;
